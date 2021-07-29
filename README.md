@@ -13,8 +13,9 @@
 <p>Clients : 30</p>
   
   <h2>Social Media ⭐</h2>
-  <p>Behance : https://www.behance.net/designer_jamaa</p>
-  <p>YouTube : https://www.youtube.com/channel/UCtKIyc0kbjTQyq6TfpSMjvg</p>
-  <p>Discord : https://dsc.gg/jamaa_braim</p>
-  <p>DEV.TO  : https://dev.to/jamaa_braim</p>
-  <p>INSTA   : </p>
+  <p>Behance https://www.behance.net/designer_jamaa</p>
+  <p>YouTube https://www.youtube.com/channel/UCtKIyc0kbjTQyq6TfpSMjvg</p>
+  <p>Discord https://dsc.gg/jamaa_braim</p>
+  <p>DEV.TO  https://dev.to/jamaa_braim</p>
+  <p>INSTA   https://www.instagram.com/jamaa_braim</p>
+
