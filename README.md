@@ -8,13 +8,13 @@
   
   <h2>Statics 📚</h2>
   
-<h3>Projects : 25</h2>
-<h3>Heppy Users : 23</h2>
-<h3>Clients : 30</h2>
+<p>Projects : 25</p>
+<p>Heppy Users : 23<p>
+<p>Clients : 30</p>
   
   <h2>Social Media ⭐</h2>
-  <h2>Behance : https://www.behance.net/designer_jamaa</h2>
-  <h2>YouTube : https://www.youtube.com/channel/UCtKIyc0kbjTQyq6TfpSMjvg</h2>
-  <h2>Discord : https://dsc.gg/jamaa_braim</h2>
-  <h2>DEV.TO  : https://dev.to/jamaa_braim</h2>
-  <h2>INSTA   : </h2>
+  <p>Behance : https://www.behance.net/designer_jamaa</p>
+  <p>YouTube : https://www.youtube.com/channel/UCtKIyc0kbjTQyq6TfpSMjvg</p>
+  <p>Discord : https://dsc.gg/jamaa_braim</p>
+  <p>DEV.TO  : https://dev.to/jamaa_braim</p>
+  <p>INSTA   : </p>
