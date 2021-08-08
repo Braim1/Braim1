@@ -3,13 +3,13 @@
 <h1>Hello <i>All!</i></h1>
  
 <h2>About Jamaa 👑</h2>
-  <p>Hi, I am Jamaa Braim from morocco, Certified Frontend developer by Udacity. I work at freelancing and I can design and progamm :
+  <p>Hi, I am Jamaa Braim from Morocco, Certified Frontend developer by Udacity. I work at freelancing and I can design and progam 
   Web Pages, Website interfaces, Login & Sign up design page and other dynamic pages, I can make it using just (HTML - CSS - JAVASCRIPT)</p>
   
   <h2>Statics 📚</h2>
   
 <p>Projects : 25</p>
-<p>Heppy Users : 23<p>
+<p>Happy Users : 23<p>
 <p>Clients : 30</p>
   
   <h2>Social Media ⭐</h2>
